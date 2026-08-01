@@ -17,3 +17,14 @@ Make sure you have your environment set up, then install the dependencies and ru
 ```bash
 pip install -r requirements.txt
 streamlit run apps.py
+
+Core Files
+apps.py - The Streamlit frontend and state management.
+
+model4.py - Core optimization and reassignment logic.
+
+utils.py - Math and distance computation helpers.
+
+.xlsx files - Placeholder/sample datasets for depots, baseline clusters, and monthly demand.
+
+Note: Documentation and structure will be updated once the current overhaul is complete.
