@@ -1,0 +1,14 @@
+# Environments
+.venv/
+env/
+
+# Caches and temporary files
+__pycache__/
+.pytest_cache/
+tmp/
+.DS_Store
+
+# Generated reports and exports
+output/
+*.pdf
+*.xlsx
